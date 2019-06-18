@@ -1,4 +1,4 @@
-package duducov.andrey.productsselector.main.touchhelper
+package dudukov.andrey.productsselector.main.touchhelper
 
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView

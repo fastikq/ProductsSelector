@@ -1,4 +1,4 @@
-package duducov.andrey.productsselector.products.adapter
+package dudukov.andrey.productsselector.products.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -7,8 +7,8 @@ import androidx.appcompat.widget.AppCompatImageView
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
-import duducov.andrey.productsselector.R
-import duducov.andrey.productsselector.model.Product
+import dudukov.andrey.productsselector.R
+import dudukov.andrey.productsselector.model.Product
 
 class ProductsAdapterChecked(private val addProduct: (Product) -> Unit, private val deleteProduct: (Product) -> Unit) :
     RecyclerView.Adapter<ProductsAdapterChecked.ProductsCheckedViewHolder>() {

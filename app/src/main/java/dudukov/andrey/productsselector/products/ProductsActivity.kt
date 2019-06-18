@@ -1,4 +1,4 @@
-package duducov.andrey.productsselector.products
+package dudukov.andrey.productsselector.products
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,9 +8,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.button.MaterialButton
-import duducov.andrey.productsselector.products.adapter.ProductsAdapterChecked
-import duducov.andrey.productsselector.R
-import duducov.andrey.productsselector.model.Product
+import dudukov.andrey.productsselector.products.adapter.ProductsAdapterChecked
+import dudukov.andrey.productsselector.R
+import dudukov.andrey.productsselector.model.Product
 import java.io.Serializable
 
 class ProductsActivity : AppCompatActivity(), View.OnClickListener{

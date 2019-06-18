@@ -1,4 +1,4 @@
-package duducov.andrey.productsselector.model
+package dudukov.andrey.productsselector.model
 
 import java.io.Serializable
 

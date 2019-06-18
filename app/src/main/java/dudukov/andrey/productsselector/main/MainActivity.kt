@@ -1,4 +1,4 @@
-package duducov.andrey.productsselector.main
+package dudukov.andrey.productsselector.main
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,11 +8,11 @@ import androidx.appcompat.widget.AppCompatTextView
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.button.MaterialButton
-import duducov.andrey.productsselector.products.ProductsActivity
-import duducov.andrey.productsselector.main.adapter.ProductsAdapter
-import duducov.andrey.productsselector.R
-import duducov.andrey.productsselector.model.Product
-import duducov.andrey.productsselector.main.touchhelper.SimpleItemTouchHelperCallback
+import dudukov.andrey.productsselector.products.ProductsActivity
+import dudukov.andrey.productsselector.main.adapter.ProductsAdapter
+import dudukov.andrey.productsselector.R
+import dudukov.andrey.productsselector.model.Product
+import dudukov.andrey.productsselector.main.touchhelper.SimpleItemTouchHelperCallback
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 

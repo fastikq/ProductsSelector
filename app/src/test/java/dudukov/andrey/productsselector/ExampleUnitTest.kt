@@ -1,4 +1,4 @@
-package duducov.andrey.productsselector
+package dudukov.andrey.productsselector
 
 import org.junit.Test
 
